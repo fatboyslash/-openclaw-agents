@@ -5,7 +5,7 @@
 ## 快速安装
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 角色名称
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 角色名称
 ```
 
 ---
@@ -18,7 +18,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 人类学家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 人类学家
 ```
 
 ### 历史学家
@@ -26,7 +26,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 历史学家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 历史学家
 ```
 
 ### 叙事学家
@@ -34,7 +34,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 叙事学家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 叙事学家
 ```
 
 ### 地理学家
@@ -42,7 +42,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 地理学家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 地理学家
 ```
 
 ### 学习规划师
@@ -50,7 +50,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 学习规划师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 学习规划师
 ```
 
 ### 心理学家
@@ -58,7 +58,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 心理学家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 心理学家
 ```
 
 ---
@@ -71,7 +71,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) UI 设计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) UI 设计师
 ```
 
 ### UX 架构师
@@ -79,7 +79,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) UX 架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) UX 架构师
 ```
 
 ### UX 研究员
@@ -87,7 +87,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) UX 研究员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) UX 研究员
 ```
 
 ### 包容性视觉专家
@@ -95,7 +95,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 包容性视觉专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 包容性视觉专家
 ```
 
 ### 品牌守护者
@@ -103,7 +103,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 品牌守护者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 品牌守护者
 ```
 
 ### 图像提示词工程师
@@ -111,7 +111,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 图像提示词工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 图像提示词工程师
 ```
 
 ### 视觉叙事师
@@ -119,7 +119,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 视觉叙事师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 视觉叙事师
 ```
 
 ### 趣味注入师
@@ -127,7 +127,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 趣味注入师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 趣味注入师
 ```
 
 ---
@@ -140,7 +140,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) AI 工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) AI 工程师
 ```
 
 ### AI 数据修复工程师
@@ -148,7 +148,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) AI 数据修复工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) AI 数据修复工程师
 ```
 
 ### DevOps 自动化师
@@ -156,7 +156,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) DevOps 自动化师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) DevOps 自动化师
 ```
 
 ### FPGA/ASIC 数字设计工程师
@@ -164,7 +164,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) FPGA/ASIC 数字设计工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) FPGA/ASIC 数字设计工程师
 ```
 
 ### Git 工作流大师
@@ -172,7 +172,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Git 工作流大师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Git 工作流大师
 ```
 
 ### IoT 方案架构师
@@ -180,7 +180,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) IoT 方案架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) IoT 方案架构师
 ```
 
 ### SRE (站点可靠性工程师)
@@ -188,7 +188,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) SRE (站点可靠性工程师)
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) SRE (站点可靠性工程师)
 ```
 
 ### Solidity 智能合约工程师
@@ -196,7 +196,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Solidity 智能合约工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Solidity 智能合约工程师
 ```
 
 ### 代码审查员
@@ -204,7 +204,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 代码审查员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 代码审查员
 ```
 
 ### 前端开发者
@@ -212,7 +212,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 前端开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 前端开发者
 ```
 
 ### 后端架构师
@@ -220,7 +220,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 后端架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 后端架构师
 ```
 
 ### 威胁检测工程师
@@ -228,7 +228,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 威胁检测工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 威胁检测工程师
 ```
 
 ### 安全工程师
@@ -236,7 +236,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 安全工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 安全工程师
 ```
 
 ### 嵌入式 Linux 驱动工程师
@@ -244,7 +244,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 嵌入式 Linux 驱动工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 嵌入式 Linux 驱动工程师
 ```
 
 ### 嵌入式固件工程师
@@ -252,7 +252,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 嵌入式固件工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 嵌入式固件工程师
 ```
 
 ### 微信小程序开发者
@@ -260,7 +260,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 微信小程序开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 微信小程序开发者
 ```
 
 ### 快速原型师
@@ -268,7 +268,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 快速原型师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 快速原型师
 ```
 
 ### 技术文档工程师
@@ -276,7 +276,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 技术文档工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 技术文档工程师
 ```
 
 ### 故障响应指挥官
@@ -284,7 +284,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 故障响应指挥官
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 故障响应指挥官
 ```
 
 ### 数据工程师
@@ -292,7 +292,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 数据工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 数据工程师
 ```
 
 ### 数据库优化师
@@ -300,7 +300,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 数据库优化师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 数据库优化师
 ```
 
 ### 移动应用开发者
@@ -308,7 +308,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 移动应用开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 移动应用开发者
 ```
 
 ### 自主优化架构师
@@ -316,7 +316,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 自主优化架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 自主优化架构师
 ```
 
 ### 软件架构师
@@ -324,7 +324,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 软件架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 软件架构师
 ```
 
 ### 钉钉集成开发工程师
@@ -332,7 +332,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 钉钉集成开发工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 钉钉集成开发工程师
 ```
 
 ### 飞书集成开发工程师
@@ -340,7 +340,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 飞书集成开发工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 飞书集成开发工程师
 ```
 
 ### 高级开发者
@@ -348,7 +348,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 高级开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 高级开发者
 ```
 
 ---
@@ -361,7 +361,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 发票管理专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 发票管理专家
 ```
 
 ### 财务预测分析师
@@ -369,7 +369,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 财务预测分析师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 财务预测分析师
 ```
 
 ### 金融风控分析师
@@ -377,7 +377,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 金融风控分析师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 金融风控分析师
 ```
 
 ---
@@ -390,7 +390,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Blender 插件工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Blender 插件工程师
 ```
 
 ### Godot Shader 开发者
@@ -398,7 +398,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Godot Shader 开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Godot Shader 开发者
 ```
 
 ### Godot 多人游戏工程师
@@ -406,7 +406,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Godot 多人游戏工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Godot 多人游戏工程师
 ```
 
 ### Godot 游戏脚本开发者
@@ -414,7 +414,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Godot 游戏脚本开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Godot 游戏脚本开发者
 ```
 
 ### Roblox 体验设计师
@@ -422,7 +422,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Roblox 体验设计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Roblox 体验设计师
 ```
 
 ### Roblox 系统脚本工程师
@@ -430,7 +430,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Roblox 系统脚本工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Roblox 系统脚本工程师
 ```
 
 ### Roblox 虚拟形象创作者
@@ -438,7 +438,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Roblox 虚拟形象创作者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Roblox 虚拟形象创作者
 ```
 
 ### Unity Shader Graph 美术师
@@ -446,7 +446,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Unity Shader Graph 美术师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unity Shader Graph 美术师
 ```
 
 ### Unity 多人游戏工程师
@@ -454,7 +454,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Unity 多人游戏工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unity 多人游戏工程师
 ```
 
 ### Unity 架构师
@@ -462,7 +462,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Unity 架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unity 架构师
 ```
 
 ### Unity 编辑器工具开发者
@@ -470,7 +470,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Unity 编辑器工具开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unity 编辑器工具开发者
 ```
 
 ### Unreal 世界构建师
@@ -478,7 +478,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Unreal 世界构建师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unreal 世界构建师
 ```
 
 ### Unreal 多人游戏架构师
@@ -486,7 +486,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Unreal 多人游戏架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unreal 多人游戏架构师
 ```
 
 ### Unreal 技术美术
@@ -494,7 +494,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Unreal 技术美术
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unreal 技术美术
 ```
 
 ### Unreal 系统工程师
@@ -502,7 +502,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Unreal 系统工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unreal 系统工程师
 ```
 
 ### 关卡设计师
@@ -510,7 +510,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 关卡设计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 关卡设计师
 ```
 
 ### 叙事设计师
@@ -518,7 +518,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 叙事设计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 叙事设计师
 ```
 
 ### 技术美术
@@ -526,7 +526,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 技术美术
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 技术美术
 ```
 
 ### 游戏设计师
@@ -534,7 +534,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 游戏设计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 游戏设计师
 ```
 
 ### 游戏音频工程师
@@ -542,7 +542,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 游戏音频工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 游戏音频工程师
 ```
 
 ---
@@ -555,7 +555,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 招聘专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 招聘专家
 ```
 
 ### 绩效管理专家
@@ -563,7 +563,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 绩效管理专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 绩效管理专家
 ```
 
 ---
@@ -576,7 +576,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 制度文件撰写专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 制度文件撰写专家
 ```
 
 ### 合同审查专家
@@ -584,7 +584,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 合同审查专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 合同审查专家
 ```
 
 ---
@@ -597,7 +597,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) B站内容策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) B站内容策略师
 ```
 
 ### Instagram 策展师
@@ -605,7 +605,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Instagram 策展师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Instagram 策展师
 ```
 
 ### LinkedIn 内容创作专家
@@ -613,7 +613,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) LinkedIn 内容创作专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) LinkedIn 内容创作专家
 ```
 
 ### Reddit 社区运营
@@ -621,7 +621,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Reddit 社区运营
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Reddit 社区运营
 ```
 
 ### SEO专家
@@ -629,7 +629,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) SEO专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) SEO专家
 ```
 
 ### TikTok 策略师
@@ -637,7 +637,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) TikTok 策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) TikTok 策略师
 ```
 
 ### Twitter 互动官
@@ -645,7 +645,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Twitter 互动官
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Twitter 互动官
 ```
 
 ### 中国电商运营专家
@@ -653,7 +653,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 中国电商运营专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 中国电商运营专家
 ```
 
 ### 内容创作者
@@ -661,7 +661,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 内容创作者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 内容创作者
 ```
 
 ### 图书联合作者
@@ -669,7 +669,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 图书联合作者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 图书联合作者
 ```
 
 ### 增长黑客
@@ -677,7 +677,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 增长黑客
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 增长黑客
 ```
 
 ### 小红书专家
@@ -685,7 +685,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 小红书专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 小红书专家
 ```
 
 ### 小红书运营专家
@@ -693,7 +693,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 小红书运营专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 小红书运营专家
 ```
 
 ### 应用商店优化师
@@ -701,7 +701,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 应用商店优化师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 应用商店优化师
 ```
 
 ### 微信公众号管理
@@ -709,7 +709,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 微信公众号管理
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 微信公众号管理
 ```
 
 ### 微信公众号运营
@@ -717,7 +717,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 微信公众号运营
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 微信公众号运营
 ```
 
 ### 微信视频号运营策略师
@@ -725,7 +725,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 微信视频号运营策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 微信视频号运营策略师
 ```
 
 ### 微博运营策略师
@@ -733,7 +733,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 微博运营策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 微博运营策略师
 ```
 
 ### 快手策略师
@@ -741,7 +741,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 快手策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 快手策略师
 ```
 
 ### 抖音策略师
@@ -749,7 +749,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 抖音策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 抖音策略师
 ```
 
 ### 播客内容策略师
@@ -757,7 +757,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 播客内容策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 播客内容策略师
 ```
 
 ### 电商运营师
@@ -765,7 +765,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 电商运营师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 电商运营师
 ```
 
 ### 百度 SEO 专家
@@ -773,7 +773,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 百度 SEO 专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 百度 SEO 专家
 ```
 
 ### 直播电商主播教练
@@ -781,7 +781,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 直播电商主播教练
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 直播电商主播教练
 ```
 
 ### 知乎策略师
@@ -789,7 +789,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 知乎策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 知乎策略师
 ```
 
 ### 知识付费产品策划师
@@ -797,7 +797,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 知识付费产品策划师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 知识付费产品策划师
 ```
 
 ### 短视频剪辑指导师
@@ -805,7 +805,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 短视频剪辑指导师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 短视频剪辑指导师
 ```
 
 ### 社交媒体策略师
@@ -813,7 +813,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 社交媒体策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 社交媒体策略师
 ```
 
 ### 私域流量运营师
@@ -821,7 +821,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 私域流量运营师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 私域流量运营师
 ```
 
 ### 跨境电商运营专家
@@ -829,7 +829,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 跨境电商运营专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 跨境电商运营专家
 ```
 
 ### 轮播图增长引擎
@@ -837,7 +837,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 轮播图增长引擎
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 轮播图增长引擎
 ```
 
 ---
@@ -850,7 +850,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) PPC 竞价策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) PPC 竞价策略师
 ```
 
 ### 付费媒体审计师
@@ -858,7 +858,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 付费媒体审计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 付费媒体审计师
 ```
 
 ### 广告创意策略师
@@ -866,7 +866,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 广告创意策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 广告创意策略师
 ```
 
 ### 搜索词分析师
@@ -874,7 +874,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 搜索词分析师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 搜索词分析师
 ```
 
 ### 社交广告策略师
@@ -882,7 +882,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 社交广告策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 社交广告策略师
 ```
 
 ### 程序化广告采买专家
@@ -890,7 +890,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 程序化广告采买专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 程序化广告采买专家
 ```
 
 ### 追踪与归因专家
@@ -898,7 +898,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 追踪与归因专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 追踪与归因专家
 ```
 
 ---
@@ -911,7 +911,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Sprint 排序师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Sprint 排序师
 ```
 
 ### 产品经理
@@ -919,7 +919,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 产品经理
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 产品经理
 ```
 
 ### 反馈分析师
@@ -927,7 +927,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 反馈分析师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 反馈分析师
 ```
 
 ### 行为助推引擎
@@ -935,7 +935,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 行为助推引擎
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 行为助推引擎
 ```
 
 ### 趋势研究员
@@ -943,7 +943,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 趋势研究员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 趋势研究员
 ```
 
 ---
@@ -956,7 +956,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Jira工作流管家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Jira工作流管家
 ```
 
 ### 实验追踪员
@@ -964,7 +964,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 实验追踪员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 实验追踪员
 ```
 
 ### 工作室制片人
@@ -972,7 +972,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 工作室制片人
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 工作室制片人
 ```
 
 ### 工作室运营
@@ -980,7 +980,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 工作室运营
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 工作室运营
 ```
 
 ### 项目牧羊人
@@ -988,7 +988,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 项目牧羊人
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 项目牧羊人
 ```
 
 ### 高级项目经理
@@ -996,7 +996,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 高级项目经理
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 高级项目经理
 ```
 
 ---
@@ -1009,7 +1009,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Discovery 教练
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Discovery 教练
 ```
 
 ### Outbound 策略师
@@ -1017,7 +1017,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Outbound 策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Outbound 策略师
 ```
 
 ### Pipeline 分析师
@@ -1025,7 +1025,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Pipeline 分析师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Pipeline 分析师
 ```
 
 ### 售前工程师
@@ -1033,7 +1033,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 售前工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 售前工程师
 ```
 
 ### 客户拓展策略师
@@ -1041,7 +1041,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 客户拓展策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 客户拓展策略师
 ```
 
 ### 投标策略师
@@ -1049,7 +1049,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 投标策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 投标策略师
 ```
 
 ### 赢单策略师
@@ -1057,7 +1057,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 赢单策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 赢单策略师
 ```
 
 ### 销售教练
@@ -1065,7 +1065,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 销售教练
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 销售教练
 ```
 
 ---
@@ -1078,7 +1078,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) XR 座舱交互专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) XR 座舱交互专家
 ```
 
 ### XR 沉浸式开发者
@@ -1086,7 +1086,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) XR 沉浸式开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) XR 沉浸式开发者
 ```
 
 ### XR 界面架构师
@@ -1094,7 +1094,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) XR 界面架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) XR 界面架构师
 ```
 
 ### macOS Metal 空间工程师
@@ -1102,7 +1102,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) macOS Metal 空间工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) macOS Metal 空间工程师
 ```
 
 ### visionOS 空间工程师
@@ -1110,7 +1110,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) visionOS 空间工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) visionOS 空间工程师
 ```
 
 ### 终端集成专家
@@ -1118,7 +1118,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 终端集成专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 终端集成专家
 ```
 
 ---
@@ -1131,7 +1131,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) AI 治理政策专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) AI 治理政策专家
 ```
 
 ### LSP 索引工程师
@@ -1139,7 +1139,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) LSP 索引工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) LSP 索引工程师
 ```
 
 ### MCP 构建器
@@ -1147,7 +1147,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) MCP 构建器
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) MCP 构建器
 ```
 
 ### Salesforce 架构师
@@ -1155,7 +1155,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) Salesforce 架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Salesforce 架构师
 ```
 
 ### ZK 管家
@@ -1163,7 +1163,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) ZK 管家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) ZK 管家
 ```
 
 ### 企业培训课程设计师
@@ -1171,7 +1171,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 企业培训课程设计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 企业培训课程设计师
 ```
 
 ### 企业风险评估师
@@ -1179,7 +1179,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 企业风险评估师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 企业风险评估师
 ```
 
 ### 会议效率专家
@@ -1187,7 +1187,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 会议效率专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 会议效率专家
 ```
 
 ### 动态定价策略师
@@ -1195,7 +1195,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 动态定价策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 动态定价策略师
 ```
 
 ### 区块链安全审计师
@@ -1203,7 +1203,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 区块链安全审计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 区块链安全审计师
 ```
 
 ### 医疗健康营销合规师
@@ -1211,7 +1211,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 医疗健康营销合规师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 医疗健康营销合规师
 ```
 
 ### 合规审计师
@@ -1219,7 +1219,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 合规审计师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 合规审计师
 ```
 
 ### 工作流架构师
@@ -1227,7 +1227,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 工作流架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 工作流架构师
 ```
 
 ### 应付账款智能体
@@ -1235,7 +1235,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 应付账款智能体
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 应付账款智能体
 ```
 
 ### 开发者布道师
@@ -1243,7 +1243,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 开发者布道师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 开发者布道师
 ```
 
 ### 报告分发师
@@ -1251,7 +1251,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 报告分发师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 报告分发师
 ```
 
 ### 提示词工程师
@@ -1259,7 +1259,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 提示词工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 提示词工程师
 ```
 
 ### 政务数字化售前顾问
@@ -1267,7 +1267,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 政务数字化售前顾问
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 政务数字化售前顾问
 ```
 
 ### 数据整合师
@@ -1275,7 +1275,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 数据整合师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 数据整合师
 ```
 
 ### 文化智能策略师
@@ -1283,7 +1283,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 文化智能策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 文化智能策略师
 ```
 
 ### 文档生成器
@@ -1291,7 +1291,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 文档生成器
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 文档生成器
 ```
 
 ### 智能体编排者
@@ -1299,7 +1299,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 智能体编排者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 智能体编排者
 ```
 
 ### 模型 QA 专家
@@ -1307,7 +1307,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 模型 QA 专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 模型 QA 专家
 ```
 
 ### 留学规划顾问
@@ -1315,7 +1315,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 留学规划顾问
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 留学规划顾问
 ```
 
 ### 自动化治理架构师
@@ -1323,7 +1323,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 自动化治理架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 自动化治理架构师
 ```
 
 ### 身份信任架构师
@@ -1331,7 +1331,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 身份信任架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 身份信任架构师
 ```
 
 ### 身份图谱操作员
@@ -1339,7 +1339,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 身份图谱操作员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 身份图谱操作员
 ```
 
 ### 销售数据提取师
@@ -1347,7 +1347,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 销售数据提取师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 销售数据提取师
 ```
 
 ### 高考志愿填报顾问
@@ -1355,7 +1355,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 高考志愿填报顾问
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 高考志愿填报顾问
 ```
 
 ---
@@ -1368,7 +1368,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 供应商评估专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 供应商评估专家
 ```
 
 ### 库存预测专家
@@ -1376,7 +1376,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 库存预测专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 库存预测专家
 ```
 
 ### 物流路线优化师
@@ -1384,7 +1384,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 物流路线优化师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 物流路线优化师
 ```
 
 ---
@@ -1397,7 +1397,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 供应链采购策略师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 供应链采购策略师
 ```
 
 ### 基础设施运维师
@@ -1405,7 +1405,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 基础设施运维师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 基础设施运维师
 ```
 
 ### 客服响应者
@@ -1413,7 +1413,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 客服响应者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 客服响应者
 ```
 
 ### 招聘运营专家
@@ -1421,7 +1421,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 招聘运营专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 招聘运营专家
 ```
 
 ### 数据分析师
@@ -1429,7 +1429,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 数据分析师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 数据分析师
 ```
 
 ### 法务合规员
@@ -1437,7 +1437,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 法务合规员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 法务合规员
 ```
 
 ### 财务追踪员
@@ -1445,7 +1445,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 财务追踪员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 财务追踪员
 ```
 
 ### 高管摘要师
@@ -1453,7 +1453,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 高管摘要师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 高管摘要师
 ```
 
 ---
@@ -1466,7 +1466,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) API 测试员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) API 测试员
 ```
 
 ### 嵌入式测试工程师
@@ -1474,7 +1474,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 嵌入式测试工程师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 嵌入式测试工程师
 ```
 
 ### 工作流优化师
@@ -1482,7 +1482,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 工作流优化师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 工作流优化师
 ```
 
 ### 工具评估师
@@ -1490,7 +1490,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 工具评估师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 工具评估师
 ```
 
 ### 性能基准师
@@ -1498,7 +1498,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 性能基准师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 性能基准师
 ```
 
 ### 无障碍审核员
@@ -1506,7 +1506,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 无障碍审核员
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 无障碍审核员
 ```
 
 ### 测试结果分析师
@@ -1514,7 +1514,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 测试结果分析师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 测试结果分析师
 ```
 
 ### 现实检验者
@@ -1522,7 +1522,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 现实检验者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 现实检验者
 ```
 
 ### 证据收集者
@@ -1530,7 +1530,7 @@ bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.s
 
 **安装命令：**
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 证据收集者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 证据收集者
 ```
 
 ---

@@ -3,10 +3,10 @@
 # install-agent.sh — 单个角色一键安装脚本
 #
 # 用法：
-#   bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 角色名称
+#   bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 角色名称
 #
 # 示例：
-#   bash <(curl -sL https://raw.githubusercontent.com/USER/REPO/main/install-agent.sh) 前端开发者
+#   bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 前端开发者
 #
 # 支持平台：Windows (Git Bash/WSL), macOS, Linux
 
@@ -30,7 +30,7 @@ err()  { printf "${RED}[ERR]${RESET} %s\n" "$*" >&2; }
 info() { printf "${CYAN}[*]${RESET} %s\n" "$*"; }
 
 # --- 配置 ---
-REPO_URL="${REPO_URL:-https://raw.githubusercontent.com/你的用户名/你的仓库名/main}"
+REPO_URL="${REPO_URL:-https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main}"
 DEST_DIR="${HOME}/.openclaw/agency-agents"
 
 # --- 帮助 ---

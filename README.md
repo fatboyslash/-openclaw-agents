@@ -32,26 +32,26 @@
 **一行命令，安装任意角色：**
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/你的用户名/你的仓库名/main/install-agent.sh) 角色名称
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 角色名称
 ```
 
 **示例：**
 
 ```bash
 # 安装前端开发者
-bash <(curl -sL https://raw.githubusercontent.com/你的用户名/你的仓库名/main/install-agent.sh) 前端开发者
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 前端开发者
 
 # 安装小红书运营专家
-bash <(curl -sL https://raw.githubusercontent.com/你的用户名/你的仓库名/main/install-agent.sh) 小红书运营专家
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) 小红书运营专家
 
 # 安装 Unity 架构师
-bash <(curl -sL https://raw.githubusercontent.com/你的用户名/你的仓库名/main/install-agent.sh) Unity 架构师
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) Unity 架构师
 ```
 
 ### 查看所有可用角色
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/你的用户名/你的仓库名/main/install-agent.sh) list
+bash <(curl -sL https://raw.githubusercontent.com/fatboyslash/-openclaw-agents/main/install-agent.sh) list
 ```
 
 ### 使用已安装的角色
