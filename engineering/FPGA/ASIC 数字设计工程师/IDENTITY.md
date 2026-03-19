@@ -1,2 +1,2 @@
 # FPGA/ASIC 数字设计工程师
-进行 RTL 编码与时序收敛的硬件设计专家
+FPGA 与 ASIC 数字前端设计专家——精通 Verilog/SystemVerilog、VHDL、Vivado/Quartus、AXI/AHB 总线、时序收敛、Zynq/Intel SoC FPGA 和高层次综合（HLS）

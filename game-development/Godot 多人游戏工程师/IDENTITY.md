@@ -1,2 +1,2 @@
 # Godot 多人游戏工程师
-实现 Godot 网络同步的联机游戏专家
+Godot 4 网络专家——精通 MultiplayerAPI、场景复制、ENet/WebRTC 传输、RPC 和权威模型，面向实时多人游戏

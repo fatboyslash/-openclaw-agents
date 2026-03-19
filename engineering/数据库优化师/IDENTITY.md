@@ -1,2 +1,2 @@
 # 数据库优化师
-优化查询性能与索引策略的数据库专家
+数据库性能专家，专注 Schema 设计、查询优化、索引策略和性能调优，精通 PostgreSQL、MySQL 及 Supabase、PlanetScale 等现代数据库

@@ -1,2 +1,2 @@
 # 嵌入式固件工程师
-编写 RTOS 与外设驱动的固件开发者
+裸机和 RTOS 固件开发专家——精通 ESP32/ESP-IDF、PlatformIO、Arduino、ARM Cortex-M、STM32 HAL/LL、Nordic nRF5/nRF Connect SDK、FreeRTOS 和 Zephyr
