@@ -7,22 +7,22 @@
 ## 学术部
 > 学术研究与教学支持（6 个角色）
 
-### [人类学家](./academic/人类学家/AGENTS.md)
+### [人类学家](./academic/%E4%BA%BA%E7%B1%BB%E5%AD%A6%E5%AE%B6/AGENTS.md)
 > 深耕文化体系、仪式传统、亲属结构与信仰系统的民族志研究者——用扎实的田野方法构建有血有肉、文化自洽的社会设定
 
-### [历史学家](./academic/历史学家/AGENTS.md)
+### [历史学家](./academic/%E5%8E%86%E5%8F%B2%E5%AD%A6%E5%AE%B6/AGENTS.md)
 > 精于历史断代、物质文化考据和史学方法论——以一手与二手史料为锚点，校验历史合理性，为设定注入经得起考证的时代质感
 
-### [叙事学家](./academic/叙事学家/AGENTS.md)
+### [叙事学家](./academic/%E5%8F%99%E4%BA%8B%E5%AD%A6%E5%AE%B6/AGENTS.md)
 > 故事结构、人物弧光与文学分析领域的研究者——从普罗普的功能分析到坎贝尔的英雄之旅，运用经典与现代叙事学框架提供专业指导
 
-### [地理学家](./academic/地理学家/AGENTS.md)
+### [地理学家](./academic/%E5%9C%B0%E7%90%86%E5%AD%A6%E5%AE%B6/AGENTS.md)
 > 自然与人文地理、气候模式、地图绘制和空间推演领域的专家——让地形走势、气候格局、资源分布和聚落形态经得起科学推敲
 
-### [学习规划师](./academic/学习规划师/AGENTS.md)
+### [学习规划师](./academic/%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92%E5%B8%88/AGENTS.md)
 > 为中国考生及终身学习者量身定制备考方案的教育规划师，熟稔考研、公务员、司考、CPA 等核心考试的应试路径，善于将费曼技巧、间隔重复、番茄工作法等科学策略融入个人化学习计划，助力持续迭代提升
 
-### [心理学家](./academic/心理学家/AGENTS.md)
+### [心理学家](./academic/%E5%BF%83%E7%90%86%E5%AD%A6%E5%AE%B6/AGENTS.md)
 > 人类行为动机、人格结构与认知规律的研究者——以临床心理学和实证研究为基础，塑造心理层面真实可信的角色与人际互动
 
 ---
@@ -30,28 +30,28 @@
 ## 设计部
 > 用户体验与视觉设计（8 个角色）
 
-### [UI 设计师](./design/UI 设计师/AGENTS.md)
+### [UI 设计师](./design/UI%20%E8%AE%BE%E8%AE%A1%E5%B8%88/AGENTS.md)
 > 视觉设计与组件体系的 UI 实践者，专注打造兼具美感、一致性与可扩展性的界面设计系统
 
-### [UX 架构师](./design/UX 架构师/AGENTS.md)
+### [UX 架构师](./design/UX%20%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 连接技术架构与用户体验的实施专家，为开发团队提供坚实的 CSS 体系、布局框架和清晰可落地的实现规范
 
-### [UX 研究员](./design/UX 研究员/AGENTS.md)
+### [UX 研究员](./design/UX%20%E7%A0%94%E7%A9%B6%E5%91%98/AGENTS.md)
 > 以可用性测试与用户研究为核心的 UX 分析师，用真实数据和行为洞察推动产品决策，让设计团队告别臆测、转向实证
 
-### [包容性视觉专家](./design/包容性视觉专家/AGENTS.md)
+### [包容性视觉专家](./design/%E5%8C%85%E5%AE%B9%E6%80%A7%E8%A7%86%E8%A7%89%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 致力于识别并消除 AI 视觉生成中的隐性偏见，保障输出的人物形象在肤色、体型、文化等维度上真实自然、有尊严、无刻板印象
 
-### [品牌守护者](./design/品牌守护者/AGENTS.md)
+### [品牌守护者](./design/%E5%93%81%E7%89%8C%E5%AE%88%E6%8A%A4%E8%80%85/AGENTS.md)
 > 维护品牌统一性的视觉与策略专家，从 Logo 到文案调性逐一把关，确保所有触点传达一致的品牌形象与核心价值
 
-### [图像提示词工程师](./design/图像提示词工程师/AGENTS.md)
+### [图像提示词工程师](./design/%E5%9B%BE%E5%83%8F%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 兼通摄影审美与 AI 图像生成的提示词设计师，善于将视觉创意精确转译为文字指令，产出达到专业摄影水准的 AI 图像
 
-### [视觉叙事师](./design/视觉叙事师/AGENTS.md)
+### [视觉叙事师](./design/%E8%A7%86%E8%A7%89%E5%8F%99%E4%BA%8B%E5%B8%88/AGENTS.md)
 > 信息可视化与品牌叙事的传达专家，擅长将复杂信息提炼为引人入胜的视觉故事，借助多媒体内容有效触达并打动目标受众
 
-### [趣味注入师](./design/趣味注入师/AGENTS.md)
+### [趣味注入师](./design/%E8%B6%A3%E5%91%B3%E6%B3%A8%E5%85%A5%E5%B8%88/AGENTS.md)
 > 为品牌体验注入个性与惊喜的创意设计师，用出人意料的趣味细节和微交互让用户对产品留下深刻印象
 
 ---
@@ -59,85 +59,85 @@
 ## 工程部
 > 软件开发与系统架构（27 个角色）
 
-### [AI 工程师](./engineering/AI 工程师/AGENTS.md)
+### [AI 工程师](./engineering/AI%20%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 覆盖数据处理到模型上线全链路的 AI 工程师，擅长机器学习模型的训练、优化与生产级部署，专注构建稳定且可扩展的 AI 系统
 
-### [AI 数据修复工程师](./engineering/AI 数据修复工程师/AGENTS.md)
+### [AI 数据修复工程师](./engineering/AI%20%E6%95%B0%E6%8D%AE%E4%BF%AE%E5%A4%8D%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 自愈数据管线专家——利用气隙隔离的本地 SLM 和语义聚类，自动侦测、归类并修复大规模数据异常，确保零数据丢失
 
-### [DevOps 自动化师](./engineering/DevOps 自动化师/AGENTS.md)
+### [DevOps 自动化师](./engineering/DevOps%20%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B8%88/AGENTS.md)
 > 熟练搭建 CI/CD 流水线与云基础设施的 DevOps 工程师，把一切能自动化的流程变成自动化，让团队把精力花在写代码上而非运维琐事
 
-### [FPGA/ASIC 数字设计工程师](./engineering/FPGA/ASIC 数字设计工程师/AGENTS.md)
+### [FPGA/ASIC 数字设计工程师](./engineering/FPGA%2FASIC%20%E6%95%B0%E5%AD%97%E8%AE%BE%E8%AE%A1%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > FPGA 与 ASIC 数字前端设计专家——精通 Verilog/SystemVerilog、VHDL、Vivado/Quartus、AXI/AHB 总线、时序收敛、Zynq/Intel SoC FPGA 和高层次综合（HLS）
 
-### [Git 工作流大师](./engineering/Git 工作流大师/AGENTS.md)
+### [Git 工作流大师](./engineering/Git%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%A4%A7%E5%B8%88/AGENTS.md)
 > Git 分支策略与版本控制最佳实践的专家，精通约定式提交、变基操作、工作树管理和 CI 友好的分支治理
 
-### [IoT 方案架构师](./engineering/IoT 方案架构师/AGENTS.md)
+### [IoT 方案架构师](./engineering/IoT%20%E6%96%B9%E6%A1%88%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 物联网端到端方案的设计专家——覆盖设备接入（MQTT/CoAP/LwM2M）、边缘计算、云平台对接、OTA 升级、设备管理和安全体系
 
-### [SRE (站点可靠性工程师)](./engineering/SRE (站点可靠性工程师)/AGENTS.md)
+### [SRE (站点可靠性工程师)](./engineering/SRE%20%28%E7%AB%99%E7%82%B9%E5%8F%AF%E9%9D%A0%E6%80%A7%E5%B7%A5%E7%A8%8B%E5%B8%88%29/AGENTS.md)
 > 站点可靠性工程专家，精通 SLO 制定、错误预算管理、可观测性体系建设、混沌工程和减少重复劳动，守护大规模生产系统的稳定性
 
-### [Solidity 智能合约工程师](./engineering/Solidity 智能合约工程师/AGENTS.md)
+### [Solidity 智能合约工程师](./engineering/Solidity%20%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 精通 EVM 智能合约架构、Gas 优化、可升级代理模式、DeFi 协议开发和安全优先合约设计的 Solidity 开发专家，覆盖 Ethereum 及 L2 链
 
-### [代码审查员](./engineering/代码审查员/AGENTS.md)
+### [代码审查员](./engineering/%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5%E5%91%98/AGENTS.md)
 > 专业代码审查专家，提供建设性、可操作的反馈，聚焦正确性、可维护性、安全性和性能，而非代码风格偏好
 
-### [前端开发者](./engineering/前端开发者/AGENTS.md)
+### [前端开发者](./engineering/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85/AGENTS.md)
 > 深耕 React/Vue/Angular 的前端工程师，在 UI 还原、渲染性能调优和组件架构设计方面经验丰富，专注交付现代化、高性能的 Web 应用
 
-### [后端架构师](./engineering/后端架构师/AGENTS.md)
+### [后端架构师](./engineering/%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > API 设计、数据库建模与分布式系统领域的后端架构师，专注打造高可用、可水平扩展的服务端基础设施
 
-### [威胁检测工程师](./engineering/威胁检测工程师/AGENTS.md)
+### [威胁检测工程师](./engineering/%E5%A8%81%E8%83%81%E6%A3%80%E6%B5%8B%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 专注 SIEM 规则开发、MITRE ATT&CK 覆盖度映射、威胁狩猎、告警调优和检测即代码流水线的安全运营检测工程专家
 
-### [安全工程师](./engineering/安全工程师/AGENTS.md)
+### [安全工程师](./engineering/%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 以威胁建模、代码审计和安全架构为核心的安全工程师，将安全实践嵌入开发全流程而非亡羊补牢
 
-### [嵌入式 Linux 驱动工程师](./engineering/嵌入式 Linux 驱动工程师/AGENTS.md)
+### [嵌入式 Linux 驱动工程师](./engineering/%E5%B5%8C%E5%85%A5%E5%BC%8F%20Linux%20%E9%A9%B1%E5%8A%A8%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 嵌入式 Linux 内核驱动与 BSP 开发专家——精通内核模块、设备树、Platform/I2C/SPI/USB 驱动框架、DMA、中断子系统、Yocto/Buildroot、U-Boot 和交叉编译工具链
 
-### [嵌入式固件工程师](./engineering/嵌入式固件工程师/AGENTS.md)
+### [嵌入式固件工程师](./engineering/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9B%BA%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 裸机和 RTOS 固件开发专家——精通 ESP32/ESP-IDF、PlatformIO、Arduino、ARM Cortex-M、STM32 HAL/LL、Nordic nRF5/nRF Connect SDK、FreeRTOS 和 Zephyr
 
-### [微信小程序开发者](./engineering/微信小程序开发者/AGENTS.md)
+### [微信小程序开发者](./engineering/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%80%85/AGENTS.md)
 > 专注微信小程序全栈开发的工程专家，精通 WXML/WXSS/WXS、微信原生 API、微信支付集成、订阅消息和云开发，擅长在微信生态内构建高性能、体验流畅的小程序应用
 
-### [快速原型师](./engineering/快速原型师/AGENTS.md)
+### [快速原型师](./engineering/%E5%BF%AB%E9%80%9F%E5%8E%9F%E5%9E%8B%E5%B8%88/AGENTS.md)
 > 擅长在极短时间内构建可运行 MVP 的全栈快枪手，用最小成本验证产品假设，让想法在 48 小时内变成能点击的原型
 
-### [技术文档工程师](./engineering/技术文档工程师/AGENTS.md)
+### [技术文档工程师](./engineering/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 专注开发者文档、API 参考、README 和教程的技术写作专家，把复杂的工程概念转化为清晰、准确、开发者真正会读也用得上的文档
 
-### [故障响应指挥官](./engineering/故障响应指挥官/AGENTS.md)
+### [故障响应指挥官](./engineering/%E6%95%85%E9%9A%9C%E5%93%8D%E5%BA%94%E6%8C%87%E6%8C%A5%E5%AE%98/AGENTS.md)
 > 专精生产环境故障管理、结构化响应协调、事后复盘、SLO/SLI 跟踪和 on-call 流程设计的事故指挥专家，为工程组织的可靠性保驾护航
 
-### [数据工程师](./engineering/数据工程师/AGENTS.md)
+### [数据工程师](./engineering/%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 专注构建可靠数据管线、湖仓架构和可扩展数据基础设施的数据工程专家，精通 ETL/ELT、Apache Spark、dbt、流处理系统和云数据平台，将原始数据转化为可信赖的分析就绪资产
 
-### [数据库优化师](./engineering/数据库优化师/AGENTS.md)
+### [数据库优化师](./engineering/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96%E5%B8%88/AGENTS.md)
 > 数据库性能专家，专注 Schema 设计、查询优化、索引策略和性能调优，精通 PostgreSQL、MySQL 及 Supabase、PlanetScale 等现代数据库
 
-### [移动应用开发者](./engineering/移动应用开发者/AGENTS.md)
+### [移动应用开发者](./engineering/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85/AGENTS.md)
 > 精通 iOS/Android 原生开发和跨平台框架的移动端专家，擅长性能优化、平台特性集成，专注打造流畅的移动体验
 
-### [自主优化架构师](./engineering/自主优化架构师/AGENTS.md)
+### [自主优化架构师](./engineering/%E8%87%AA%E4%B8%BB%E4%BC%98%E5%8C%96%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 智能系统治理专家，持续对 API 进行影子测试以优化性能，同时严格执行财务和安全护栏，防止成本失控
 
-### [软件架构师](./engineering/软件架构师/AGENTS.md)
+### [软件架构师](./engineering/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 软件架构专家，精通系统设计、领域驱动设计、架构模式和技术决策，构建可扩展、可维护的系统
 
-### [钉钉集成开发工程师](./engineering/钉钉集成开发工程师/AGENTS.md)
+### [钉钉集成开发工程师](./engineering/%E9%92%89%E9%92%89%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 专注钉钉开放平台全栈集成开发的工程专家，精通钉钉机器人、酷应用、审批流自动化、连接器低代码集成、钉钉小程序、宜搭平台对接及与阿里云生态的深度集成，擅长构建企业级协作与业务自动化解决方案
 
-### [飞书集成开发工程师](./engineering/飞书集成开发工程师/AGENTS.md)
+### [飞书集成开发工程师](./engineering/%E9%A3%9E%E4%B9%A6%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 专注飞书开放平台全栈集成开发的工程专家，精通飞书机器人、小程序、审批流、多维表格（Bitable）、消息卡片、Webhook、SSO 单点登录及工作流自动化，擅长在飞书生态内构建企业级协作与自动化解决方案
 
-### [高级开发者](./engineering/高级开发者/AGENTS.md)
+### [高级开发者](./engineering/%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E8%80%85/AGENTS.md)
 > 精通 Laravel/Livewire/FluxUI 的高级全栈开发者，擅长高端 CSS 效果、Three.js 集成，专注打造有质感的 Web 体验
 
 ---
@@ -145,13 +145,13 @@
 ## 金融部
 > 财务分析与风险管理（3 个角色）
 
-### [发票管理专家](./finance/发票管理专家/AGENTS.md)
+### [发票管理专家](./finance/%E5%8F%91%E7%A5%A8%E7%AE%A1%E7%90%86%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专注中国企业发票全生命周期管理的财税专家，精通增值税专用发票与普通发票管理、金税系统操作、电子发票推广、三单匹配、报销审批和税务合规，帮助企业实现发票管理的规范化和数字化
 
-### [财务预测分析师](./finance/财务预测分析师/AGENTS.md)
+### [财务预测分析师](./finance/%E8%B4%A2%E5%8A%A1%E9%A2%84%E6%B5%8B%E5%88%86%E6%9E%90%E5%B8%88/AGENTS.md)
 > 专注企业财务预测与场景建模的分析专家，精通收入预测、现金流管理、烧钱率分析和融资对接，帮助创业公司和成长型企业在不确定环境中做出有数据支撑的财务决策
 
-### [金融风控分析师](./finance/金融风控分析师/AGENTS.md)
+### [金融风控分析师](./finance/%E9%87%91%E8%9E%8D%E9%A3%8E%E6%8E%A7%E5%88%86%E6%9E%90%E5%B8%88/AGENTS.md)
 > 专注交易欺诈检测与金融风险防控的分析专家，精通支付宝/微信支付/银联渠道的风控策略、反洗钱合规、电信诈骗识别、央行征信应用和互联网金融风控体系搭建，帮助企业守住资金安全底线
 
 ---
@@ -159,64 +159,64 @@
 ## 游戏开发部
 > 游戏设计与开发（20 个角色）
 
-### [Blender 插件工程师](./game-development/Blender 插件工程师/AGENTS.md)
+### [Blender 插件工程师](./game-development/Blender%20%E6%8F%92%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > Blender 工具专家——构建 Python 插件、资产验证器、导出工具和管线自动化，把重复的 DCC 工作变成可靠的一键流程
 
-### [Godot Shader 开发者](./game-development/Godot Shader 开发者/AGENTS.md)
+### [Godot Shader 开发者](./game-development/Godot%20Shader%20%E5%BC%80%E5%8F%91%E8%80%85/AGENTS.md)
 > Godot 4 视觉效果专家——精通 Godot 着色语言（类 GLSL）、VisualShader 编辑器、CanvasItem 和 Spatial shader、后处理及性能优化，面向 2D/3D 效果
 
-### [Godot 多人游戏工程师](./game-development/Godot 多人游戏工程师/AGENTS.md)
+### [Godot 多人游戏工程师](./game-development/Godot%20%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > Godot 4 网络专家——精通 MultiplayerAPI、场景复制、ENet/WebRTC 传输、RPC 和权威模型，面向实时多人游戏
 
-### [Godot 游戏脚本开发者](./game-development/Godot 游戏脚本开发者/AGENTS.md)
+### [Godot 游戏脚本开发者](./game-development/Godot%20%E6%B8%B8%E6%88%8F%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91%E8%80%85/AGENTS.md)
 > 组合与信号完整性专家——精通 GDScript 2.0、C# 集成、节点式架构和类型安全信号设计，面向 Godot 4 项目
 
-### [Roblox 体验设计师](./game-development/Roblox 体验设计师/AGENTS.md)
+### [Roblox 体验设计师](./game-development/Roblox%20%E4%BD%93%E9%AA%8C%E8%AE%BE%E8%AE%A1%E5%B8%88/AGENTS.md)
 > Roblox 平台用户体验与变现专家——精通参与循环设计、DataStore 驱动的进度系统、Roblox 变现系统（通行证、开发者产品、UGC）以及玩家留存
 
-### [Roblox 系统脚本工程师](./game-development/Roblox 系统脚本工程师/AGENTS.md)
+### [Roblox 系统脚本工程师](./game-development/Roblox%20%E7%B3%BB%E7%BB%9F%E8%84%9A%E6%9C%AC%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > Roblox 平台工程专家——精通 Luau、客户端-服务端安全模型、RemoteEvent/RemoteFunction、DataStore 和模块架构，面向可扩展的 Roblox 体验
 
-### [Roblox 虚拟形象创作者](./game-development/Roblox 虚拟形象创作者/AGENTS.md)
+### [Roblox 虚拟形象创作者](./game-development/Roblox%20%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1%E5%88%9B%E4%BD%9C%E8%80%85/AGENTS.md)
 > Roblox UGC 与虚拟形象管线专家——精通 Roblox 虚拟形象系统、UGC 物品制作、配件绑定、纹理标准和 Creator Marketplace 提交流程
 
-### [Unity Shader Graph 美术师](./game-development/Unity Shader Graph 美术师/AGENTS.md)
+### [Unity Shader Graph 美术师](./game-development/Unity%20Shader%20Graph%20%E7%BE%8E%E6%9C%AF%E5%B8%88/AGENTS.md)
 > 视觉效果与材质专家——精通 Unity Shader Graph、HLSL、URP/HDRP 渲染管线和自定义渲染 Pass，打造实时视觉效果
 
-### [Unity 多人游戏工程师](./game-development/Unity 多人游戏工程师/AGENTS.md)
+### [Unity 多人游戏工程师](./game-development/Unity%20%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 联网游戏专家——精通 Netcode for GameObjects、Unity Gaming Services（Relay/Lobby）、客户端-服务端权威、延迟补偿和状态同步
 
-### [Unity 架构师](./game-development/Unity 架构师/AGENTS.md)
+### [Unity 架构师](./game-development/Unity%20%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 数据驱动模块化专家——精通 ScriptableObject、解耦系统和单一职责组件设计，面向可扩展的 Unity 项目
 
-### [Unity 编辑器工具开发者](./game-development/Unity 编辑器工具开发者/AGENTS.md)
+### [Unity 编辑器工具开发者](./game-development/Unity%20%E7%BC%96%E8%BE%91%E5%99%A8%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91%E8%80%85/AGENTS.md)
 > Unity 编辑器自动化专家——精通自定义 EditorWindow、PropertyDrawer、AssetPostprocessor、ScriptedImporter 和管线自动化，每周为团队节省数小时
 
-### [Unreal 世界构建师](./game-development/Unreal 世界构建师/AGENTS.md)
+### [Unreal 世界构建师](./game-development/Unreal%20%E4%B8%96%E7%95%8C%E6%9E%84%E5%BB%BA%E5%B8%88/AGENTS.md)
 > 开放世界与环境专家——精通 UE5 World Partition、Landscape、程序化植被、HLOD 和大规模关卡流式加载，打造无缝开放世界体验
 
-### [Unreal 多人游戏架构师](./game-development/Unreal 多人游戏架构师/AGENTS.md)
+### [Unreal 多人游戏架构师](./game-development/Unreal%20%E5%A4%9A%E4%BA%BA%E6%B8%B8%E6%88%8F%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > Unreal Engine 网络专家——精通 Actor 复制、GameMode/GameState 架构、服务端权威玩法、网络预测和 UE5 专用服务器配置
 
-### [Unreal 技术美术](./game-development/Unreal 技术美术/AGENTS.md)
+### [Unreal 技术美术](./game-development/Unreal%20%E6%8A%80%E6%9C%AF%E7%BE%8E%E6%9C%AF/AGENTS.md)
 > Unreal Engine 视觉管线专家——精通材质编辑器、Niagara 特效、程序化内容生成和 UE5 项目的美术到引擎管线
 
-### [Unreal 系统工程师](./game-development/Unreal 系统工程师/AGENTS.md)
+### [Unreal 系统工程师](./game-development/Unreal%20%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 性能与混合架构专家——精通 C++/Blueprint 边界、Nanite 几何体、Lumen GI 和 Gameplay Ability System，面向 AAA 级 Unreal Engine 项目
 
-### [关卡设计师](./game-development/关卡设计师/AGENTS.md)
+### [关卡设计师](./game-development/%E5%85%B3%E5%8D%A1%E8%AE%BE%E8%AE%A1%E5%B8%88/AGENTS.md)
 > 关卡布局与节奏控制专家——精通空间叙事、难度曲线、引导设计和玩家流向控制，跨引擎跨品类通用
 
-### [叙事设计师](./game-development/叙事设计师/AGENTS.md)
+### [叙事设计师](./game-development/%E5%8F%99%E4%BA%8B%E8%AE%BE%E8%AE%A1%E5%B8%88/AGENTS.md)
 > 剧情设计与世界观专家——精通叙事结构、角色弧线、环境叙事和对话系统，跨引擎跨品类通用
 
-### [技术美术](./game-development/技术美术/AGENTS.md)
+### [技术美术](./game-development/%E6%8A%80%E6%9C%AF%E7%BE%8E%E6%9C%AF/AGENTS.md)
 > Shader 与渲染管线专家——精通图形编程、材质系统、性能优化和美术工具开发，跨引擎跨品类通用
 
-### [游戏设计师](./game-development/游戏设计师/AGENTS.md)
+### [游戏设计师](./game-development/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%B8%88/AGENTS.md)
 > 系统与机制架构师——精通 GDD 编写、玩家心理学、经济平衡和游戏循环设计，跨引擎跨品类通用
 
-### [游戏音频工程师](./game-development/游戏音频工程师/AGENTS.md)
+### [游戏音频工程师](./game-development/%E6%B8%B8%E6%88%8F%E9%9F%B3%E9%A2%91%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 音效设计与空间音频专家——精通 Wwise/FMOD、音频中间件、声学建模和动态音乐系统，跨引擎跨品类通用
 
 ---
@@ -224,10 +224,10 @@
 ## 人力资源部
 > 人力资源与组织发展（2 个角色）
 
-### [招聘专家](./hr/招聘专家/AGENTS.md)
+### [招聘专家](./hr/%E6%8B%9B%E8%81%98%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 深耕中国人才市场的全流程招聘专家，精通 Boss 直聘、猎聘、拉勾等主流招聘渠道运营，擅长简历筛选、面试协调、人才管线管理、校招社招全链路操盘，帮助企业高效精准地完成人才获取与入职闭环
 
-### [绩效管理专家](./hr/绩效管理专家/AGENTS.md)
+### [绩效管理专家](./hr/%E7%BB%A9%E6%95%88%E7%AE%A1%E7%90%86%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 深耕中国企业绩效管理体系的实战专家，精通 OKR/KPI 双轨制、360 度反馈、绩效校准会、PIP 改进计划等全流程绩效管理，帮助企业建立科学公正的绩效评估与人才发展机制
 
 ---
@@ -235,10 +235,10 @@
 ## 法务部
 > 法律合规与合同审查（2 个角色）
 
-### [制度文件撰写专家](./legal/制度文件撰写专家/AGENTS.md)
+### [制度文件撰写专家](./legal/%E5%88%B6%E5%BA%A6%E6%96%87%E4%BB%B6%E6%92%B0%E5%86%99%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 精通中国数据合规法律体系的企业制度文件撰写专家，擅长内部管理制度、隐私政策、用户协议等法律文书起草，深谙《个人信息保护法》《数据安全法》《网络安全法》三法合规要求，帮助企业构建完整的合规制度体系
 
-### [合同审查专家](./legal/合同审查专家/AGENTS.md)
+### [合同审查专家](./legal/%E5%90%88%E5%90%8C%E5%AE%A1%E6%9F%A5%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 精通中国《民法典》合同编及商业合同实务的法律专家，擅长合同风险识别、条款审查与修改建议，熟悉电子签章、争议解决机制、违约金条款设计，帮助企业在商业交易中有效防控法律风险
 
 ---
@@ -246,97 +246,97 @@
 ## 营销部
 > 品牌营销与增长运营（31 个角色）
 
-### [B站内容策略师](./marketing/B站内容策略师/AGENTS.md)
+### [B站内容策略师](./marketing/B%E7%AB%99%E5%86%85%E5%AE%B9%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专注B站（哔哩哔哩）平台的中长视频内容策略专家，精通UP主运营、弹幕文化、社区生态、品牌合作和推荐算法，以及通过优质内容实现长期粉丝增长与商业变现
 
-### [Instagram 策展师](./marketing/Instagram 策展师/AGENTS.md)
+### [Instagram 策展师](./marketing/Instagram%20%E7%AD%96%E5%B1%95%E5%B8%88/AGENTS.md)
 > Instagram 营销专家，适合出海营销场景，擅长视觉叙事、社区运营和多格式内容优化，打造品牌美学体系，驱动真实互动
 
-### [LinkedIn 内容创作专家](./marketing/LinkedIn 内容创作专家/AGENTS.md)
+### [LinkedIn 内容创作专家](./marketing/LinkedIn%20%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专注于 LinkedIn 个人品牌打造和专业内容创作的策略师，深谙 LinkedIn 算法与社区文化，通过高质量内容为创始人、求职者、技术人和职场人带来真实的商业机会与人脉增长
 
-### [Reddit 社区运营](./marketing/Reddit 社区运营/AGENTS.md)
+### [Reddit 社区运营](./marketing/Reddit%20%E7%A4%BE%E5%8C%BA%E8%BF%90%E8%90%A5/AGENTS.md)
 > Reddit 营销专家，适合出海营销场景，深谙 Reddit 社区文化，通过真实参与、价值输出和长期关系建设来塑造品牌口碑
 
-### [SEO专家](./marketing/SEO专家/AGENTS.md)
+### [SEO专家](./marketing/SEO%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 搜索引擎优化策略师，精通技术 SEO、内容优化、外链权重建设和自然搜索增长，通过数据驱动的搜索策略实现可持续的流量增长
 
-### [TikTok 策略师](./marketing/TikTok 策略师/AGENTS.md)
+### [TikTok 策略师](./marketing/TikTok%20%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > TikTok 营销专家，适合出海营销场景，擅长病毒式内容创作、算法优化和社区运营，精通 TikTok 独特的文化生态和玩法
 
-### [Twitter 互动官](./marketing/Twitter 互动官/AGENTS.md)
+### [Twitter 互动官](./marketing/Twitter%20%E4%BA%92%E5%8A%A8%E5%AE%98/AGENTS.md)
 > Twitter 营销专家，适合出海营销场景，擅长实时互动、思想领袖建设和社区驱动增长，通过真实对话建立品牌影响力
 
-### [中国电商运营专家](./marketing/中国电商运营专家/AGENTS.md)
+### [中国电商运营专家](./marketing/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 覆盖淘宝、天猫、拼多多、京东生态的全平台电商运营专家，深耕商品上架优化、直播带货、店铺运营、618/双11 大促及跨平台策略
 
-### [内容创作者](./marketing/内容创作者/AGENTS.md)
+### [内容创作者](./marketing/%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C%E8%80%85/AGENTS.md)
 > 擅长多平台内容策划与创作的内容专家，能在不同渠道用不同语言讲同一个好故事，让每一篇内容都带来可衡量的价值
 
-### [图书联合作者](./marketing/图书联合作者/AGENTS.md)
+### [图书联合作者](./marketing/%E5%9B%BE%E4%B9%A6%E8%81%94%E5%90%88%E4%BD%9C%E8%80%85/AGENTS.md)
 > 为创始人、专家和实操者提供战略性思想领袖力图书协作，将语音笔记、碎片化想法和定位策略转化为结构化的第一人称章节
 
-### [增长黑客](./marketing/增长黑客/AGENTS.md)
+### [增长黑客](./marketing/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/AGENTS.md)
 > 数据驱动的用户增长专家，擅长设计和执行低成本高回报的获客实验，用最小预算撬动最大增长
 
-### [小红书专家](./marketing/小红书专家/AGENTS.md)
+### [小红书专家](./marketing/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 小红书营销专家，精通生活方式内容创作、趋势驱动策略和真实社区互动，擅长用审美叙事制造病毒式增长
 
-### [小红书运营专家](./marketing/小红书运营专家/AGENTS.md)
+### [小红书运营专家](./marketing/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BF%90%E8%90%A5%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专注小红书平台的内容运营专家，擅长种草笔记创作、达人合作策略、爆款内容公式，以及通过数据驱动实现品牌在小红书的高效获客和口碑建设
 
-### [应用商店优化师](./marketing/应用商店优化师/AGENTS.md)
+### [应用商店优化师](./marketing/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%BC%98%E5%8C%96%E5%B8%88/AGENTS.md)
 > 应用商店营销专家，专注 ASO（应用商店优化）、转化率提升和应用曝光度，帮你把自然下载量拉满
 
-### [微信公众号管理](./marketing/微信公众号管理/AGENTS.md)
+### [微信公众号管理](./marketing/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E7%AE%A1%E7%90%86/AGENTS.md)
 > 微信公众号运营专家，精通内容营销、用户互动和转化优化，擅长多格式内容和自动化工作流，把公众号做成品牌私域核心阵地
 
-### [微信公众号运营](./marketing/微信公众号运营/AGENTS.md)
+### [微信公众号运营](./marketing/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E8%BF%90%E8%90%A5/AGENTS.md)
 > 专注微信生态的内容运营专家，精通公众号内容策略、社群运营、裂变增长、私域流量搭建和微信小程序运营
 
-### [微信视频号运营策略师](./marketing/微信视频号运营策略师/AGENTS.md)
+### [微信视频号运营策略师](./marketing/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8F%B7%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专注微信视频号生态的内容策略与增长运营专家，精通社交推荐机制、公众号/朋友圈/小程序/企微生态联动、视频号直播带货、短视频内容策划、私域引流闭环和创作者数据分析
 
-### [微博运营策略师](./marketing/微博运营策略师/AGENTS.md)
+### [微博运营策略师](./marketing/%E5%BE%AE%E5%8D%9A%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专注新浪微博平台的全域运营专家，精通热搜机制、超话运营、舆情管理、粉丝经济与微博广告投放，助力品牌在微博生态实现声量爆发与长效增长
 
-### [快手策略师](./marketing/快手策略师/AGENTS.md)
+### [快手策略师](./marketing/%E5%BF%AB%E6%89%8B%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专注快手平台的短视频与直播电商策略专家，精通下沉市场用户运营、老铁社区文化、直播带货方法论、私域信任构建，以及快手与抖音的差异化打法
 
-### [抖音策略师](./marketing/抖音策略师/AGENTS.md)
+### [抖音策略师](./marketing/%E6%8A%96%E9%9F%B3%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专注抖音平台的短视频营销专家，精通算法推荐机制、爆款视频策划、直播带货流程，以及通过内容矩阵实现品牌在抖音生态的全链路增长
 
-### [播客内容策略师](./marketing/播客内容策略师/AGENTS.md)
+### [播客内容策略师](./marketing/%E6%92%AD%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专注中国播客市场的内容策略与运营专家，精通小宇宙、喜马拉雅等主流平台生态，擅长节目定位、音频制作、听众增长、多平台分发及商业化变现，助力播客主理人打造高粘性音频内容品牌
 
-### [电商运营师](./marketing/电商运营师/AGENTS.md)
+### [电商运营师](./marketing/%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5%E5%B8%88/AGENTS.md)
 > 专注中国电商平台全链路运营的策略专家，精通淘宝/天猫/拼多多/京东的店铺运营、商品优化、直播带货、大促策划（618/双十一），以及跨平台差异化运营策略
 
-### [百度 SEO 专家](./marketing/百度 SEO 专家/AGENTS.md)
+### [百度 SEO 专家](./marketing/%E7%99%BE%E5%BA%A6%20SEO%20%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专注百度搜索生态的 SEO 优化专家，精通百度算法规则、百度生态产品矩阵（百科、知道、贴吧、文库）、中文关键词研究、ICP 备案规范以及移动端搜索优化策略
 
-### [直播电商主播教练](./marketing/直播电商主播教练/AGENTS.md)
+### [直播电商主播教练](./marketing/%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E4%B8%BB%E6%92%AD%E6%95%99%E7%BB%83/AGENTS.md)
 > 专注直播电商全链路的主播培训与直播间运营专家，精通抖音/快手/淘宝直播/视频号四大平台的直播话术设计、选品排品策略、付费流与自然流的流量配比、转化逼单技巧，以及基于实时数据的直播间调优方法论
 
-### [知乎策略师](./marketing/知乎策略师/AGENTS.md)
+### [知乎策略师](./marketing/%E7%9F%A5%E4%B9%8E%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 知乎营销专家，擅长思想领袖建设、社区公信力打造和知识驱动型互动，通过高质量问答和专栏建立品牌权威
 
-### [知识付费产品策划师](./marketing/知识付费产品策划师/AGENTS.md)
+### [知识付费产品策划师](./marketing/%E7%9F%A5%E8%AF%86%E4%BB%98%E8%B4%B9%E4%BA%A7%E5%93%81%E7%AD%96%E5%88%92%E5%B8%88/AGENTS.md)
 > 专注中国知识付费生态的产品设计与商业化专家，精通得到、知识星球、小报童、小鹅通、千聊等平台运营，擅长知识产品定义、内容定价策略、用户运营、IP 打造、分销体系设计和全链路数据分析
 
-### [短视频剪辑指导师](./marketing/短视频剪辑指导师/AGENTS.md)
+### [短视频剪辑指导师](./marketing/%E7%9F%AD%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E6%8C%87%E5%AF%BC%E5%B8%88/AGENTS.md)
 > 专注短视频剪辑技术全链路的实战教练，精通剪映/CapCut 专业版、Premiere Pro、DaVinci Resolve、Final Cut Pro 四大剪辑工具，覆盖画面构图与镜头语言、调色与色彩校正、音频工程、动态图形与特效、字幕排版、多平台输出优化、剪辑工作流效率提升以及 AI 辅助剪辑等核心技术领域
 
-### [社交媒体策略师](./marketing/社交媒体策略师/AGENTS.md)
+### [社交媒体策略师](./marketing/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 跨平台社交媒体策略专家，专注 LinkedIn、Twitter 等职业社交平台的品牌建设、社区运营和整合营销
 
-### [私域流量运营师](./marketing/私域流量运营师/AGENTS.md)
+### [私域流量运营师](./marketing/%E7%A7%81%E5%9F%9F%E6%B5%81%E9%87%8F%E8%BF%90%E8%90%A5%E5%B8%88/AGENTS.md)
 > 专注企业微信私域体系搭建的运营专家，精通企微 SCRM、社群精细化运营、小程序商城集成、用户生命周期管理和全链路转化漏斗优化
 
-### [跨境电商运营专家](./marketing/跨境电商运营专家/AGENTS.md)
+### [跨境电商运营专家](./marketing/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专注跨境电商全链路运营的策略专家，精通 Amazon/Shopee/Lazada/AliExpress/Temu/TikTok Shop 等海外平台运营、国际物流与海外仓、跨境合规税务、多语言 Listing 优化、品牌出海及 DTC 独立站建设
 
-### [轮播图增长引擎](./marketing/轮播图增长引擎/AGENTS.md)
+### [轮播图增长引擎](./marketing/%E8%BD%AE%E6%92%AD%E5%9B%BE%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E/AGENTS.md)
 > 自动化短视频轮播图生成专家，分析任意网站 URL，通过 Gemini 生成病毒式 6 张轮播图，经 Upload-Post API 自动发布到抖音和 Instagram，抓取数据分析并持续迭代优化
 
 ---
@@ -344,25 +344,25 @@
 ## 付费媒体部
 > 广告投放与效果优化（7 个角色）
 
-### [PPC 竞价策略师](./paid-media/PPC 竞价策略师/AGENTS.md)
+### [PPC 竞价策略师](./paid-media/PPC%20%E7%AB%9E%E4%BB%B7%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 资深付费搜索策略专家，擅长 Google Ads、Microsoft Advertising 和 Amazon Ads 的大规模账户架构、预算分配和出价策略，能驾驭月花 1 万到 1000 万的账户
 
-### [付费媒体审计师](./paid-media/付费媒体审计师/AGENTS.md)
+### [付费媒体审计师](./paid-media/%E4%BB%98%E8%B4%B9%E5%AA%92%E4%BD%93%E5%AE%A1%E8%AE%A1%E5%B8%88/AGENTS.md)
 > 系统化评估 Google Ads、Microsoft Ads 和 Meta 广告账户的全方位审计专家，覆盖账户结构、追踪、出价、创意、受众和竞争定位等 200+ 检查点，输出可执行的审计报告
 
-### [广告创意策略师](./paid-media/广告创意策略师/AGENTS.md)
+### [广告创意策略师](./paid-media/%E5%B9%BF%E5%91%8A%E5%88%9B%E6%84%8F%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专注广告文案、RSA 优化、素材组设计和创意测试的付费媒体创意专家，横跨 Google、Meta、Microsoft 和程序化平台，用数据驱动说服力
 
-### [搜索词分析师](./paid-media/搜索词分析师/AGENTS.md)
+### [搜索词分析师](./paid-media/%E6%90%9C%E7%B4%A2%E8%AF%8D%E5%88%86%E6%9E%90%E5%B8%88/AGENTS.md)
 > 搜索词分析、否定关键词架构和查询意图映射专家，从海量搜索词报告中挖掘优化方向，消灭浪费、放大高意向流量
 
-### [社交广告策略师](./paid-media/社交广告策略师/AGENTS.md)
+### [社交广告策略师](./paid-media/%E7%A4%BE%E4%BA%A4%E5%B9%BF%E5%91%8A%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 跨平台社交广告专家，覆盖 Meta（Facebook/Instagram）、LinkedIn、TikTok（抖音海外版）、Pinterest、X 和 Snapchat，设计从拉新到再营销的全链路社交广告体系
 
-### [程序化广告采买专家](./paid-media/程序化广告采买专家/AGENTS.md)
+### [程序化广告采买专家](./paid-media/%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%B9%BF%E5%91%8A%E9%87%87%E4%B9%B0%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 展示广告与程序化媒介采买专家，覆盖 Google Display Network、DV360、The Trade Desk 等 DSP 平台、合作媒体采买及 ABM 展示广告策略
 
-### [追踪与归因专家](./paid-media/追踪与归因专家/AGENTS.md)
+### [追踪与归因专家](./paid-media/%E8%BF%BD%E8%B8%AA%E4%B8%8E%E5%BD%92%E5%9B%A0%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 转化追踪架构、代码管理和归因模型专家，精通 GTM、GA4、Google Ads、Meta CAPI、LinkedIn Insight Tag 及服务端追踪实施，确保每一个转化都被正确计数
 
 ---
@@ -370,19 +370,19 @@
 ## 产品部
 > 产品规划与需求管理（5 个角色）
 
-### [Sprint 排序师](./product/Sprint 排序师/AGENTS.md)
+### [Sprint 排序师](./product/Sprint%20%E6%8E%92%E5%BA%8F%E5%B8%88/AGENTS.md)
 > 精通需求优先级排序和 Sprint 规划的产品专家，用框架和数据替代拍脑袋，确保团队永远在做最有价值的事
 
-### [产品经理](./product/产品经理/AGENTS.md)
+### [产品经理](./product/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/AGENTS.md)
 > 全局型产品负责人，掌控产品全生命周期——从需求发现、战略规划到路线图制定、干系人对齐、GTM 落地与结果度量，在商业目标、用户需求与技术现实之间架起桥梁，确保在正确的时间交付正确的产品
 
-### [反馈分析师](./product/反馈分析师/AGENTS.md)
+### [反馈分析师](./product/%E5%8F%8D%E9%A6%88%E5%88%86%E6%9E%90%E5%B8%88/AGENTS.md)
 > 专注用户反馈收集、分类和洞察提炼的产品分析专家，把碎片化的用户声音变成可执行的产品改进建议
 
-### [行为助推引擎](./product/行为助推引擎/AGENTS.md)
+### [行为助推引擎](./product/%E8%A1%8C%E4%B8%BA%E5%8A%A9%E6%8E%A8%E5%BC%95%E6%93%8E/AGENTS.md)
 > 行为心理学专家，通过调整软件交互节奏和风格，最大化用户动力和成功率
 
-### [趋势研究员](./product/趋势研究员/AGENTS.md)
+### [趋势研究员](./product/%E8%B6%8B%E5%8A%BF%E7%A0%94%E7%A9%B6%E5%91%98/AGENTS.md)
 > 专注行业趋势分析和技术前瞻的研究专家，帮团队看清未来 6-18 个月的方向，在正确的时间做正确的事
 
 ---
@@ -390,22 +390,22 @@
 ## 项目管理部
 > 项目协调与进度把控（6 个角色）
 
-### [Jira工作流管家](./project-management/Jira工作流管家/AGENTS.md)
+### [Jira工作流管家](./project-management/Jira%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AE%A1%E5%AE%B6/AGENTS.md)
 > 交付运营专家，执行 Jira 关联的 Git 工作流，确保提交可追溯、PR 结构规范、分支策略安全可控
 
-### [实验追踪员](./project-management/实验追踪员/AGENTS.md)
+### [实验追踪员](./project-management/%E5%AE%9E%E9%AA%8C%E8%BF%BD%E8%B8%AA%E5%91%98/AGENTS.md)
 > 专注实验设计、执行追踪和数据驱动决策的项目管理专家，用科学方法管理 A/B 测试、功能实验和假设验证，拿数据说话而不是拍脑袋
 
-### [工作室制片人](./project-management/工作室制片人/AGENTS.md)
+### [工作室制片人](./project-management/%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%88%B6%E7%89%87%E4%BA%BA/AGENTS.md)
 > 高级战略领导者，擅长创意与技术项目的统筹协调、资源分配和多项目组合管理，让创意方向和商业目标对齐，管好复杂的跨部门项目
 
-### [工作室运营](./project-management/工作室运营/AGENTS.md)
+### [工作室运营](./project-management/%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BF%90%E8%90%A5/AGENTS.md)
 > 专注工作室日常效率、流程优化和资源协调的运营管理专家，让所有团队都有好用的工具和顺畅的流程，保证事情稳定推进
 
-### [项目牧羊人](./project-management/项目牧羊人/AGENTS.md)
+### [项目牧羊人](./project-management/%E9%A1%B9%E7%9B%AE%E7%89%A7%E7%BE%8A%E4%BA%BA/AGENTS.md)
 > 专注跨部门项目协调、时间线管理和利益方对齐的项目管理专家，把项目从立项一路护送到交付，管好资源、风险和各方沟通
 
-### [高级项目经理](./project-management/高级项目经理/AGENTS.md)
+### [高级项目经理](./project-management/%E9%AB%98%E7%BA%A7%E9%A1%B9%E7%9B%AE%E7%BB%8F%E7%90%86/AGENTS.md)
 > 把规格说明书拆成可执行任务的资深 PM，记得住以前项目的经验教训，专注务实的范围控制和精确的需求还原
 
 ---
@@ -413,28 +413,28 @@
 ## 销售部
 > 销售策略与客户关系（8 个角色）
 
-### [Discovery 教练](./sales/Discovery 教练/AGENTS.md)
+### [Discovery 教练](./sales/Discovery%20%E6%95%99%E7%BB%83/AGENTS.md)
 > 销售方法论专家，辅导团队掌握高阶 Discovery 技巧——问题设计、现状诊断、差距量化和通话结构，挖掘客户真正的购买动机
 
-### [Outbound 策略师](./sales/Outbound 策略师/AGENTS.md)
+### [Outbound 策略师](./sales/Outbound%20%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 基于信号的 Outbound 专家，设计多渠道触达序列、定义 ICP、通过调研驱动的个性化开发 Pipeline——不靠量取胜，靠精准
 
-### [Pipeline 分析师](./sales/Pipeline 分析师/AGENTS.md)
+### [Pipeline 分析师](./sales/Pipeline%20%E5%88%86%E6%9E%90%E5%B8%88/AGENTS.md)
 > 收入运营分析师，专精 Pipeline 健康诊断、单子速度分析、Forecast 准确度和数据驱动的销售辅导，将 CRM 数据转化为可行动的 Pipeline 情报，在风险变成丢掉的季度之前就把它暴露出来
 
-### [售前工程师](./sales/售前工程师/AGENTS.md)
+### [售前工程师](./sales/%E5%94%AE%E5%89%8D%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 资深售前工程师，专精技术 Discovery、Demo 设计、POC 执行、竞争技术定位，擅长将产品能力转化为业务成果，在单子进入采购流程之前先赢下技术决策
 
-### [客户拓展策略师](./sales/客户拓展策略师/AGENTS.md)
+### [客户拓展策略师](./sales/%E5%AE%A2%E6%88%B7%E6%8B%93%E5%B1%95%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 售后客户拓展专家，擅长 Land-and-Expand 执行、干系人关系图谱、QBR 策划及净收入留存率管理，通过系统化扩展规划和多线程客户关系经营，将成交客户发展为长期平台合作
 
-### [投标策略师](./sales/投标策略师/AGENTS.md)
+### [投标策略师](./sales/%E6%8A%95%E6%A0%87%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 资深投标与方案策略师，将 RFP 和销售机会转化为有说服力的赢标叙事，专精赢标主题提炼、竞争定位、执行摘要写作，构建能打动评审的方案而非仅仅合规的方案
 
-### [赢单策略师](./sales/赢单策略师/AGENTS.md)
+### [赢单策略师](./sales/%E8%B5%A2%E5%8D%95%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 资深赢单策略师，专精 MEDDPICC 资质审查、竞争定位和复杂 B2B 销售周期的赢单规划，为每笔单子评分、暴露 Pipeline 风险、构建经得起 Forecast Review 检验的赢单策略
 
-### [销售教练](./sales/销售教练/AGENTS.md)
+### [销售教练](./sales/%E9%94%80%E5%94%AE%E6%95%99%E7%BB%83/AGENTS.md)
 > 专注销售团队能力提升的教练专家，擅长 Pipeline Review、通话辅导、单子策略和 Forecast 准确度管理，通过结构化辅导方法和行为反馈让每个销售和每笔单子都变得更好
 
 ---
@@ -442,22 +442,22 @@
 ## 空间计算部
 > AR/VR 与空间界面开发（6 个角色）
 
-### [XR 座舱交互专家](./spatial-computing/XR 座舱交互专家/AGENTS.md)
+### [XR 座舱交互专家](./spatial-computing/XR%20%E5%BA%A7%E8%88%B1%E4%BA%A4%E4%BA%92%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专注设计和开发 XR 环境中沉浸式座舱控制系统
 
-### [XR 沉浸式开发者](./spatial-computing/XR 沉浸式开发者/AGENTS.md)
+### [XR 沉浸式开发者](./spatial-computing/XR%20%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%BC%80%E5%8F%91%E8%80%85/AGENTS.md)
 > WebXR 和沉浸式技术专家，专注浏览器端 AR/VR/XR 应用开发
 
-### [XR 界面架构师](./spatial-computing/XR 界面架构师/AGENTS.md)
+### [XR 界面架构师](./spatial-computing/XR%20%E7%95%8C%E9%9D%A2%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 空间交互设计师和沉浸式 AR/VR/XR 环境的界面策略专家
 
-### [macOS Metal 空间工程师](./spatial-computing/macOS Metal 空间工程师/AGENTS.md)
+### [macOS Metal 空间工程师](./spatial-computing/macOS%20Metal%20%E7%A9%BA%E9%97%B4%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 原生 Swift 和 Metal 专家，构建高性能 3D 渲染系统和空间计算体验，覆盖 macOS 与 Vision Pro 平台
 
-### [visionOS 空间工程师](./spatial-computing/visionOS 空间工程师/AGENTS.md)
+### [visionOS 空间工程师](./spatial-computing/visionOS%20%E7%A9%BA%E9%97%B4%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 原生 visionOS 空间计算、SwiftUI 体积式界面和 Liquid Glass 设计实现
 
-### [终端集成专家](./spatial-computing/终端集成专家/AGENTS.md)
+### [终端集成专家](./spatial-computing/%E7%BB%88%E7%AB%AF%E9%9B%86%E6%88%90%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 终端模拟、文本渲染优化和 SwiftTerm 集成，面向现代 Swift 应用
 
 ---
@@ -465,91 +465,91 @@
 ## 专项部
 > 跨领域专业服务（29 个角色）
 
-### [AI 治理政策专家](./specialized/AI 治理政策专家/AGENTS.md)
+### [AI 治理政策专家](./specialized/AI%20%E6%B2%BB%E7%90%86%E6%94%BF%E7%AD%96%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 面向中国企业和机构的 AI 治理与合规专家，精通《生成式 AI 管理办法》、算法备案制度、深度合成管理规定、大模型安全评估流程及 AI 伦理审查机制，帮助组织构建符合中国监管要求的 AI 治理框架并落地执行
 
-### [LSP 索引工程师](./specialized/LSP 索引工程师/AGENTS.md)
+### [LSP 索引工程师](./specialized/LSP%20%E7%B4%A2%E5%BC%95%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > Language Server Protocol 专家，通过 LSP 客户端编排和语义索引构建统一的代码智能系统
 
-### [MCP 构建器](./specialized/MCP 构建器/AGENTS.md)
+### [MCP 构建器](./specialized/MCP%20%E6%9E%84%E5%BB%BA%E5%99%A8/AGENTS.md)
 > Model Context Protocol 开发专家，设计、构建和测试 MCP 服务器，通过自定义工具、资源和提示词扩展 AI 智能体能力
 
-### [Salesforce 架构师](./specialized/Salesforce 架构师/AGENTS.md)
+### [Salesforce 架构师](./specialized/Salesforce%20%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > Salesforce 平台的解决方案架构——多云设计、集成模式、Governor Limits、部署策略和数据模型治理，适用于企业级组织
 
-### [ZK 管家](./specialized/ZK 管家/AGENTS.md)
+### [ZK 管家](./specialized/ZK%20%E7%AE%A1%E5%AE%B6/AGENTS.md)
 > 秉承 Niklas Luhmann 卡片盒笔记法精神的知识库管家，默认视角为 Luhmann，按任务切换领域专家（Feynman、Munger、Ogilvy 等），强制原子笔记、连接性和验证闭环，适用于知识库建设、笔记链接、复杂任务分解和跨领域决策支持
 
-### [企业培训课程设计师](./specialized/企业培训课程设计师/AGENTS.md)
+### [企业培训课程设计师](./specialized/%E4%BC%81%E4%B8%9A%E5%9F%B9%E8%AE%AD%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E5%B8%88/AGENTS.md)
 > 专注企业培训体系搭建与课程开发的专家，精通培训需求分析、教学设计方法论、混合式学习方案设计、内训师培养、领导力发展项目以及培训效果评估与持续优化
 
-### [企业风险评估师](./specialized/企业风险评估师/AGENTS.md)
+### [企业风险评估师](./specialized/%E4%BC%81%E4%B8%9A%E9%A3%8E%E9%99%A9%E8%AF%84%E4%BC%B0%E5%B8%88/AGENTS.md)
 > 面向中国企业的全面风险管理专家，精通国企风控体系建设、内控合规（COSO 框架本土化）、审计整改、ESG 风险管理及供应链风险评估，帮助企业构建系统化的风险识别、评估与应对机制，提升组织韧性
 
-### [会议效率专家](./specialized/会议效率专家/AGENTS.md)
+### [会议效率专家](./specialized/%E4%BC%9A%E8%AE%AE%E6%95%88%E7%8E%87%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 面向中国企业的会议管理与效率提升专家，精通飞书、钉钉、腾讯会议等协作平台，擅长会议纪要撰写、行动项追踪、议程设计、OKR 周会组织及跨时区会议协调，帮助团队将会议从「时间黑洞」变为「决策引擎」
 
-### [动态定价策略师](./specialized/动态定价策略师/AGENTS.md)
+### [动态定价策略师](./specialized/%E5%8A%A8%E6%80%81%E5%AE%9A%E4%BB%B7%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专注电商动态定价与促销策略的价格优化专家，精通淘宝、京东、拼多多等平台的价格机制、大促定价规则、竞品价格监控和利润最大化策略，帮助商家在激烈的价格战中实现利润与销量的最优平衡
 
-### [区块链安全审计师](./specialized/区块链安全审计师/AGENTS.md)
+### [区块链安全审计师](./specialized/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1%E5%B8%88/AGENTS.md)
 > 专注智能合约漏洞检测、形式化验证、漏洞利用分析和审计报告编写的安全审计专家，服务于 DeFi 协议和区块链应用
 
-### [医疗健康营销合规师](./specialized/医疗健康营销合规师/AGENTS.md)
+### [医疗健康营销合规师](./specialized/%E5%8C%BB%E7%96%97%E5%81%A5%E5%BA%B7%E8%90%A5%E9%94%80%E5%90%88%E8%A7%84%E5%B8%88/AGENTS.md)
 > 深耕中国医疗健康行业营销合规的专家，精通《广告法》《医疗广告管理办法》《药品管理法》等法规，覆盖药品、医疗器械、医美、保健品、互联网医疗等细分领域的营销合规审查、内容风控、平台规则解读及患者隐私保护，帮助企业在合法合规的前提下高效开展健康营销
 
-### [合规审计师](./specialized/合规审计师/AGENTS.md)
+### [合规审计师](./specialized/%E5%90%88%E8%A7%84%E5%AE%A1%E8%AE%A1%E5%B8%88/AGENTS.md)
 > 专业技术合规审计师，擅长 SOC 2、ISO 27001、HIPAA 和 PCI-DSS 审计——从就绪评估、证据收集到认证全流程
 
-### [工作流架构师](./specialized/工作流架构师/AGENTS.md)
+### [工作流架构师](./specialized/%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 工作流设计专家，为每个系统、用户旅程和智能体交互绘制完整的工作流树——涵盖正常路径、所有分支条件、故障模式、恢复路径、交接契约和可观测状态，产出可直接用于构建的规格说明，让开发人员据此实现、QA 据此测试
 
-### [应付账款智能体](./specialized/应付账款智能体/AGENTS.md)
+### [应付账款智能体](./specialized/%E5%BA%94%E4%BB%98%E8%B4%A6%E6%AC%BE%E6%99%BA%E8%83%BD%E4%BD%93/AGENTS.md)
 > 自主支付处理专家，负责执行供应商付款、承包商发票和定期账单，支持加密货币、法币、稳定币等多种支付通道，通过 MCP 与 AI 智能体工作流集成
 
-### [开发者布道师](./specialized/开发者布道师/AGENTS.md)
+### [开发者布道师](./specialized/%E5%BC%80%E5%8F%91%E8%80%85%E5%B8%83%E9%81%93%E5%B8%88/AGENTS.md)
 > 专业开发者关系专家，擅长构建开发者社区、创作技术内容、优化开发者体验（DX），通过真实的工程参与驱动平台采用，连接产品团队、工程团队与外部开发者
 
-### [报告分发师](./specialized/报告分发师/AGENTS.md)
+### [报告分发师](./specialized/%E6%8A%A5%E5%91%8A%E5%88%86%E5%8F%91%E5%B8%88/AGENTS.md)
 > 自动把整合好的销售报告按区域分发给对应的销售代表，支持定时和手动触发
 
-### [提示词工程师](./specialized/提示词工程师/AGENTS.md)
+### [提示词工程师](./specialized/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 专注大语言模型提示词设计与优化的专家，精通系统提示词架构、思维链设计、少样本学习策略，以及提示词效果评测和迭代方法论
 
-### [政务数字化售前顾问](./specialized/政务数字化售前顾问/AGENTS.md)
+### [政务数字化售前顾问](./specialized/%E6%94%BF%E5%8A%A1%E6%95%B0%E5%AD%97%E5%8C%96%E5%94%AE%E5%89%8D%E9%A1%BE%E9%97%AE/AGENTS.md)
 > 面向中国政务市场（ToG）的数字化项目售前专家，精通政策解读、方案设计、标书编写、POC 验证、合规要求（等保/密评/信创）及客户关系管理，帮助技术团队高效赢得政府信息化项目
 
-### [数据整合师](./specialized/数据整合师/AGENTS.md)
+### [数据整合师](./specialized/%E6%95%B0%E6%8D%AE%E6%95%B4%E5%90%88%E5%B8%88/AGENTS.md)
 > 把提取出的销售数据整合到实时报告仪表盘，按区域、销售代表和销售管线生成汇总视图
 
-### [文化智能策略师](./specialized/文化智能策略师/AGENTS.md)
+### [文化智能策略师](./specialized/%E6%96%87%E5%8C%96%E6%99%BA%E8%83%BD%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 文化智商（CQ）专家，检测隐性排斥、研究全球化上下文，确保软件产品在跨文化和交叉身份中产生真实共鸣
 
-### [文档生成器](./specialized/文档生成器/AGENTS.md)
+### [文档生成器](./specialized/%E6%96%87%E6%A1%A3%E7%94%9F%E6%88%90%E5%99%A8/AGENTS.md)
 > 专业文档创建专家，通过代码化方式生成专业的 PDF、PPTX、DOCX 和 XLSX 文件，支持格式化、图表和数据可视化
 
-### [智能体编排者](./specialized/智能体编排者/AGENTS.md)
+### [智能体编排者](./specialized/%E6%99%BA%E8%83%BD%E4%BD%93%E7%BC%96%E6%8E%92%E8%80%85/AGENTS.md)
 > 负责多智能体协调调度的元智能体，擅长任务分解、智能体选配、流程编排和结果整合，让多个专业智能体协同工作产出最优结果
 
-### [模型 QA 专家](./specialized/模型 QA 专家/AGENTS.md)
+### [模型 QA 专家](./specialized/%E6%A8%A1%E5%9E%8B%20QA%20%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 独立模型 QA 专家，端到端审计机器学习和统计模型——从文档审查、数据重建到复现、校准测试、可解释性分析、性能监控和审计级报告
 
-### [留学规划顾问](./specialized/留学规划顾问/AGENTS.md)
+### [留学规划顾问](./specialized/%E7%95%99%E5%AD%A6%E8%A7%84%E5%88%92%E9%A1%BE%E9%97%AE/AGENTS.md)
 > 覆盖美英加澳欧港新的全阶段留学规划专家，精通本科/硕士/博士申请策略、选校定位、文书打磨、背景提升、标化规划、签证准备和海外生活适应，帮助中国学生制定个性化的全链路留学方案
 
-### [自动化治理架构师](./specialized/自动化治理架构师/AGENTS.md)
+### [自动化治理架构师](./specialized/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B2%BB%E7%90%86%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 以治理为先的业务自动化架构师（n8n 优先），在实施之前先审计价值、风险和可维护性
 
-### [身份信任架构师](./specialized/身份信任架构师/AGENTS.md)
+### [身份信任架构师](./specialized/%E8%BA%AB%E4%BB%BD%E4%BF%A1%E4%BB%BB%E6%9E%B6%E6%9E%84%E5%B8%88/AGENTS.md)
 > 为自主运行的 AI 智能体设计身份认证和信任验证体系，确保智能体能证明自己是谁、被授权做什么、实际做了什么
 
-### [身份图谱操作员](./specialized/身份图谱操作员/AGENTS.md)
+### [身份图谱操作员](./specialized/%E8%BA%AB%E4%BB%BD%E5%9B%BE%E8%B0%B1%E6%93%8D%E4%BD%9C%E5%91%98/AGENTS.md)
 > 运维多智能体系统的共享身份图谱，确保每个智能体对「这个实体是谁？」都能得到一致的规范答案——即使在并发写入下也保持确定性
 
-### [销售数据提取师](./specialized/销售数据提取师/AGENTS.md)
+### [销售数据提取师](./specialized/%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE%E6%8F%90%E5%8F%96%E5%B8%88/AGENTS.md)
 > 监控 Excel 文件并提取关键销售指标（月累计、年累计、年末预测），服务于内部实时报告系统
 
-### [高考志愿填报顾问](./specialized/高考志愿填报顾问/AGENTS.md)
+### [高考志愿填报顾问](./specialized/%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E9%A1%BE%E9%97%AE/AGENTS.md)
 > 中国高考志愿填报策略专家，精通平行志愿与院校专业组填报规则、位次法与等位分析、新高考选科组合与专业限选、提前批与专项计划、院校层次定位、冲稳保策略，帮助考生和家长制定科学的志愿填报方案
 
 ---
@@ -557,13 +557,13 @@
 ## 供应链部
 > 供应链与物流管理（3 个角色）
 
-### [供应商评估专家](./supply-chain/供应商评估专家/AGENTS.md)
+### [供应商评估专家](./supply-chain/%E4%BE%9B%E5%BA%94%E5%95%86%E8%AF%84%E4%BC%B0%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专注供应商全生命周期管理的采购策略专家，擅长供应商筛选与评分、验厂审核、质量管理体系搭建、账期与成本谈判，帮助企业在 1688 等采购平台上建立稳定可靠的供应商体系
 
-### [库存预测专家](./supply-chain/库存预测专家/AGENTS.md)
+### [库存预测专家](./supply-chain/%E5%BA%93%E5%AD%98%E9%A2%84%E6%B5%8B%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专注需求预测与库存管理的供应链专家，擅长基于历史销售数据和市场趋势的精准需求预测、安全库存计算、补货策略优化，帮助企业在中国电商大促节奏下实现「不断货、不积压」的库存平衡
 
-### [物流路线优化师](./supply-chain/物流路线优化师/AGENTS.md)
+### [物流路线优化师](./supply-chain/%E7%89%A9%E6%B5%81%E8%B7%AF%E7%BA%BF%E4%BC%98%E5%8C%96%E5%B8%88/AGENTS.md)
 > 专注物流配送路线规划与成本优化的供应链专家，精通中国快递物流体系、同城配送网络、冷链运输和跨境物流方案，帮助企业在保障时效的前提下实现物流成本最优
 
 ---
@@ -571,28 +571,28 @@
 ## 支持部
 > 运营支持与客户服务（8 个角色）
 
-### [供应链采购策略师](./support/供应链采购策略师/AGENTS.md)
+### [供应链采购策略师](./support/%E4%BE%9B%E5%BA%94%E9%93%BE%E9%87%87%E8%B4%AD%E7%AD%96%E7%95%A5%E5%B8%88/AGENTS.md)
 > 专业的供应链管理与采购策略专家，精通供应商开发与管理、战略采购、质量管控和供应链数字化，立足中国制造业生态，帮助企业构建高效、韧性、可持续的供应链体系
 
-### [基础设施运维师](./support/基础设施运维师/AGENTS.md)
+### [基础设施运维师](./support/%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E8%BF%90%E7%BB%B4%E5%B8%88/AGENTS.md)
 > 专业的基础设施运维专家，专注系统可靠性、性能优化和技术运营管理，用安全、高性能、低成本的方式维护稳定可扩展的基础设施，撑住业务运转
 
-### [客服响应者](./support/客服响应者/AGENTS.md)
+### [客服响应者](./support/%E5%AE%A2%E6%9C%8D%E5%93%8D%E5%BA%94%E8%80%85/AGENTS.md)
 > 高效专业的客户支持专家，擅长快速诊断问题、安抚用户情绪、推动问题解决，让每一次用户求助都变成提升信任的机会
 
-### [招聘运营专家](./support/招聘运营专家/AGENTS.md)
+### [招聘运营专家](./support/%E6%8B%9B%E8%81%98%E8%BF%90%E8%90%A5%E4%B8%93%E5%AE%B6/AGENTS.md)
 > 专业的招聘运营与人才获取专家，精通中国主流招聘渠道运营、人才评估体系搭建和劳动法合规管理，帮助企业高效吸引、筛选和留住优秀人才，打造有竞争力的雇主品牌
 
-### [数据分析师](./support/数据分析师/AGENTS.md)
+### [数据分析师](./support/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88/AGENTS.md)
 > 用数据讲故事的分析专家，擅长从海量数据中发现业务洞察，把复杂的数据分析翻译成可执行的决策建议
 
-### [法务合规员](./support/法务合规员/AGENTS.md)
+### [法务合规员](./support/%E6%B3%95%E5%8A%A1%E5%90%88%E8%A7%84%E5%91%98/AGENTS.md)
 > 专注产品法律合规和数据隐私保护的合规专家，确保产品在法律框架内安全运营，帮团队避开合规地雷
 
-### [财务追踪员](./support/财务追踪员/AGENTS.md)
+### [财务追踪员](./support/%E8%B4%A2%E5%8A%A1%E8%BF%BD%E8%B8%AA%E5%91%98/AGENTS.md)
 > 专业的财务分析与管控专家，擅长财务规划、预算管理和经营绩效分析，守住企业财务健康底线，优化现金流，为业务增长提供有数据支撑的财务洞察
 
-### [高管摘要师](./support/高管摘要师/AGENTS.md)
+### [高管摘要师](./support/%E9%AB%98%E7%AE%A1%E6%91%98%E8%A6%81%E5%B8%88/AGENTS.md)
 > 像资深战略顾问一样思考和表达的 AI 专家，擅长把复杂的业务信息压缩成简洁、可执行的高管摘要，用 McKinsey SCQA、BCG Pyramid Principle、Bain 框架帮 C-level 在三分钟内做出决策
 
 ---
@@ -600,31 +600,31 @@
 ## 测试部
 > 质量保障与测试工程（9 个角色）
 
-### [API 测试员](./testing/API 测试员/AGENTS.md)
+### [API 测试员](./testing/API%20%E6%B5%8B%E8%AF%95%E5%91%98/AGENTS.md)
 > 专注接口测试和契约验证的 API 质量专家，确保每个接口稳定可靠、文档准确、安全合规
 
-### [嵌入式测试工程师](./testing/嵌入式测试工程师/AGENTS.md)
+### [嵌入式测试工程师](./testing/%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88/AGENTS.md)
 > 嵌入式系统质量保障专家——精通硬件在环测试（HIL）、固件自动化测试、OTA 回归、EMC/ESD 测试规划、量产测试夹具设计、故障注入与可靠性验证
 
-### [工作流优化师](./testing/工作流优化师/AGENTS.md)
+### [工作流优化师](./testing/%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BC%98%E5%8C%96%E5%B8%88/AGENTS.md)
 > 专注流程分析和优化的效率专家，通过消除瓶颈、精简流程和引入自动化，让团队干活更快、出错更少、人也更舒服
 
-### [工具评估师](./testing/工具评估师/AGENTS.md)
+### [工具评估师](./testing/%E5%B7%A5%E5%85%B7%E8%AF%84%E4%BC%B0%E5%B8%88/AGENTS.md)
 > 专注工具评测和选型的技术评估专家，通过全面的功能对比、性能测试和成本分析，帮团队选对工具、用好工具
 
-### [性能基准师](./testing/性能基准师/AGENTS.md)
+### [性能基准师](./testing/%E6%80%A7%E8%83%BD%E5%9F%BA%E5%87%86%E5%B8%88/AGENTS.md)
 > 专注系统性能测试和容量规划的性能工程专家，用数据找到性能瓶颈，用基准测试证明优化效果
 
-### [无障碍审核员](./testing/无障碍审核员/AGENTS.md)
+### [无障碍审核员](./testing/%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%AE%A1%E6%A0%B8%E5%91%98/AGENTS.md)
 > 专注无障碍审核的可访问性专家，按 WCAG 标准审查界面、用辅助技术实测、确保产品人人可用，默认立场是找问题——没用屏幕阅读器测过的就不算无障碍
 
-### [测试结果分析师](./testing/测试结果分析师/AGENTS.md)
+### [测试结果分析师](./testing/%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E5%88%86%E6%9E%90%E5%B8%88/AGENTS.md)
 > 专注测试结果评估和质量度量分析的测试分析专家，把原始测试数据变成可执行的洞察，驱动质量决策
 
-### [现实检验者](./testing/现实检验者/AGENTS.md)
+### [现实检验者](./testing/%E7%8E%B0%E5%AE%9E%E6%A3%80%E9%AA%8C%E8%80%85/AGENTS.md)
 > 从真实用户视角审视产品的质量守门人，专注于发现那些在理想测试环境中不会暴露、但在现实使用中必然出现的问题
 
-### [证据收集者](./testing/证据收集者/AGENTS.md)
+### [证据收集者](./testing/%E8%AF%81%E6%8D%AE%E6%94%B6%E9%9B%86%E8%80%85/AGENTS.md)
 > 专注测试证据链完整性的质量专家，确保每一个测试结论都有充分的证据支撑，让质量报告经得起任何质疑
 
 ---
